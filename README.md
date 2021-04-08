@@ -7,10 +7,10 @@
 * 😄 Pronouns: 001 101 010
 * ⚡ Fun fact: Went to college on a track scholarship. 
 * Personal Records:
- * 1600m:  4:17
- * 3200m: 9:07
- * 5k: 15:03
- * 10k: 35:31
- * Half: 1:26:28
- * Marathon: 3:27:10
+  * 1600m:  4:17
+  * 3200m: 9:07
+  * 5k: 15:03
+  * 10k: 35:31
+  * Half: 1:26:28
+  * Marathon: 3:27:10
 
