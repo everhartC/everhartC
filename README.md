@@ -1,7 +1,7 @@
 ### Hello! 
-* 🔭 I’m currently working on completing the Coding Dojo programming bootcamp and enter the workforce as a software developer. 
-* 🌱 I’m currently learning Python, JavaScript, jQuery, HTML, CSS
-* 🤔 I’m always looking to better my craft and accept wisdom and knowledge pertaining to Python and especially Django.<br /><br /><br />
+* 🔭 I recently finished Coding Dojo's 26-week Programming Bootcamp.  
+* 🌱 Topic of the month has been JavaScript and jQuery. It's crazy how jQuery can help you manipulate the DOM and do some pretty incredible stuff. 
+* 🤔 I’m always looking to better my craft and accept wisdom and knowledge pertaining to software and programming in general.<br /><br /><br />
 * Recently retired out of the US Army as a First Lieutenant in a Military Intelligence unit. My service time brought me all over the world and provided me with incredible experiences: Airborne/Air Assault School, Advanced Combatives to name of a few. I was in charge of many ISR related tasks and received my Remote Pilot license.
 * 😄 Pronouns: 001 101 010
 * ⚡ Fun fact: Went to college on a track scholarship. 
